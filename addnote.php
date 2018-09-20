@@ -4,7 +4,7 @@
 	<title>Home page</title>
 </head>
 <body>
-	<h1 align="center">Notes</h1>
+	<h1 align="center">Creating new Note</h1>
 	<br>
 	<form method="post" align="center">
 		
