@@ -5,7 +5,7 @@
 </head>
 <body>
 <br>
-<center><h1>Type a Comment</h1></center>
+<center><h1 align="center">Type a Comment</h1></center>
 <br>
  <form method="get" action="comment.php">
 <center>Enter your User Id 
