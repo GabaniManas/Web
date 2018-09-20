@@ -1,6 +1,6 @@
 <html>
 <body>
-	<h1>Deleting the note</h1>
+	<h1 align="center">Deleting the note</h1>
 	<table align="center">
 	<form action="deletenote.php" method="post">
 	<td>Enter Noteid</td>
