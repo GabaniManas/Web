@@ -1,6 +1,6 @@
 <html>
 <body>
-	<h1>Updating the note</h1>
+	<h1 align="center">Updating the note</h1>
 	<table align="center">
 	<form action="updatenote.php" method="post">
 	<td>Enter Noteid</td>
